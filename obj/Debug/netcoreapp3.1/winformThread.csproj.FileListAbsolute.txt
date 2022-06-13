@@ -1,0 +1,13 @@
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.exe
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.deps.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.runtimeconfig.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.runtimeconfig.dev.json
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\bin\Debug\netcoreapp3.1\winformThread.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.csprojAssemblyReference.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.AssemblyInfoInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.AssemblyInfo.cs
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.csproj.CoreCompileInputs.cache
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.dll
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.pdb
+C:\Users\marouane\Desktop\TestApp\dotnet-projects\winformThread\obj\Debug\netcoreapp3.1\winformThread.genruntimeconfig.cache

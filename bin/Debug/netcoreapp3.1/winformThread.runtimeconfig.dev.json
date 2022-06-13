@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marouane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marouane\\.nuget\\packages"
+    ]
+  }
+}
